@@ -11,5 +11,3 @@ I love turning ideas into reality through code. I'm passionate about building in
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mich-tapawan&layout=compact&theme=github_dark)
-
