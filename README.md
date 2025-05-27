@@ -25,34 +25,6 @@ Git, GitHub, Git Bash, Figma, Canva, Adobe Photoshop, VS Code
 
 ---
 
-## 🧩 Selected Projects
-
-**🔊 Safe Stride – AI-Powered Crossing Assistant (2025)**  
-YOLOv8-based pedestrian crossing assistant with object detection for traffic lights, crosswalks, and vehicles. Provides haptic and audio feedback for visually impaired users.  
-`Python, YOLOv8, React Native, FastAPI`
-
-**🔁 Automata Visualizer & Validator (2025)**  
-Interactive web tool to visualize regular expressions into automata (DFA, PDA, CFG) with real-time validation.  
-`React, TypeScript, HTML/CSS`
-
-**💬 SentiView – Emotion Classifier for Customer Reviews (2025)**  
-Text classifier using BERT to detect emotions in product reviews.  
-`Python, BERT, JavaScript, HTML/CSS`
-
-**📊 RideSafe – Predictive Accidents Dashboard (2024)**  
-Dashboard for predicting traffic accidents using ML (Random Forest) and a chatbot with NLP.  
-`HTML/CSS, Python, Flask, JS`
-
-**📍 Pethood – Pet Service Locator (2024)**  
-Uses REST and Nominatim APIs to locate and bookmark pet care services across the Philippines.  
-`HTML, Bootstrap, JS, Express.js, MySQL`
-
-**☕ Comfy Café – Static Website (2023)**  
-Coffee shop landing page with responsive design and custom UI from mockups.  
-`HTML, CSS, Vanilla JS, Figma`
-
----
-
 ## 🧠 Interests & Focus Areas
 
 - Full Stack Web & Mobile Development  
