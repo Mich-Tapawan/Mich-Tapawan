@@ -63,14 +63,6 @@ Coffee shop landing page with responsive design and custom UI from mockups.
 
 ---
 
-## 📈 Current Goals
-
-- Learn advanced model deployment for mobile apps  
-- Explore TensorFlow Lite and real-time CV processing  
-- Contribute to open-source accessibility projects
-
----
-
 
 ![Mich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mich-tapawan&show_icons=true&theme=radical)
 
