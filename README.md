@@ -2,6 +2,7 @@
 
 🎓 Computer Science student at DLSU-D | 💻 Full Stack Developer
 
+Passionate about developing full-stack applications, creating intuitive user interfaces and reliable backend systems to deliver functional and well-designed software solutions.
 ---
 
 ## 🚀 Tech Stack
