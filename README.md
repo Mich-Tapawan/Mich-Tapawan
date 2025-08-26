@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Mik!
 
-🎓 Computer Science student at DLSU-D | 💻 Full Stack Developer | 🤖 AI & ML Engineer  
-
-I love turning ideas into reality through code. I'm passionate about building intelligent systems, crafting beautiful UIs, and solving real-world problems using technology.
+🎓 Computer Science student at DLSU-D | 💻 Full Stack Developer
 
 ---
 
